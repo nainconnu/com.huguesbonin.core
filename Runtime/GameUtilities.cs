@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace HuguesBonin.Core 
+namespace huguesbonin.core 
 {
     public class GameUtilities : MonoBehaviour
     {
